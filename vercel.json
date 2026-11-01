@@ -1,0 +1,8 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "framework": "vite",
+  "functions": { "api/game.ts": { "maxDuration": 30 } },
+  "rewrites": [{ "source": "/((?!api/|art/|assets/).*)", "destination": "/index.html" }]
+}

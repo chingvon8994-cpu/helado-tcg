@@ -1,0 +1,105 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --cream: #fff6e9;
+  --cocoa: #2a1710;
+  --cocoa-2: #3b2216;
+  --berry: #ff6fb5;
+  --mint: #5fe3b5;
+  --wafer: #e9b06d;
+  color-scheme: dark;
+}
+
+html, body, #root { height: 100%; }
+body {
+  margin: 0;
+  font-family: 'Nunito', system-ui, sans-serif;
+  color: var(--cream);
+  background:
+    radial-gradient(1200px 600px at 10% -10%, rgba(255, 111, 181, 0.18), transparent 60%),
+    radial-gradient(900px 500px at 110% 10%, rgba(95, 227, 181, 0.14), transparent 60%),
+    linear-gradient(180deg, #2a1710 0%, #1d100b 100%);
+  background-attachment: fixed;
+  -webkit-tap-highlight-color: transparent;
+}
+.font-display { font-family: 'Baloo 2', system-ui, sans-serif; }
+
+/* Checkerboard accent from the Helado Region key art */
+.checker {
+  background-image: conic-gradient(rgba(255,255,255,.08) 25%, transparent 0 50%, rgba(255,255,255,.08) 0 75%, transparent 0);
+  background-size: 22px 22px;
+}
+.drip {
+  position: relative;
+}
+.drip::after {
+  content: '';
+  position: absolute; left: 0; right: 0; bottom: -10px; height: 12px;
+  background: radial-gradient(circle at 10px 0, var(--drip, #ff6fb5) 9px, transparent 10px) 0 0 / 34px 12px repeat-x;
+}
+
+.panel {
+  @apply rounded-3xl border border-white/10 bg-white/[0.06] backdrop-blur-md shadow-card;
+}
+.btn {
+  @apply inline-flex items-center justify-center gap-2 rounded-2xl px-4 py-2.5 font-display font-bold text-base transition active:scale-[.97] disabled:opacity-40 disabled:pointer-events-none select-none;
+}
+.btn-primary { @apply btn bg-berry-400 hover:bg-berry-300 shadow-[0_6px_0_#b0236c] active:shadow-[0_2px_0_#b0236c] active:translate-y-1; color: #2a1710; }
+.btn-mint { @apply btn bg-mint-400 hover:bg-mint-300 shadow-[0_6px_0_#1f8f6a] active:shadow-[0_2px_0_#1f8f6a] active:translate-y-1; color: #10291f; }
+.btn-ghost { @apply btn bg-white/10 hover:bg-white/15 text-cone-50; }
+.btn-danger { @apply btn bg-red-500/90 hover:bg-red-400 text-white; }
+.chip { @apply inline-flex items-center gap-1 rounded-full px-2.5 py-1 text-xs font-bold bg-white/10; }
+.input { @apply w-full rounded-xl bg-black/30 border border-white/15 px-3 py-2.5 outline-none focus:border-berry-400 placeholder:text-white/40; }
+
+/* ── Cards ───────────────────────────────────────────────────────── */
+.tcg-card {
+  --w: 220px;
+  width: var(--w);
+  aspect-ratio: 63 / 88;
+  border-radius: calc(var(--w) * 0.055);
+  position: relative;
+  font-size: calc(var(--w) * 0.05);
+  line-height: 1.15;
+  user-select: none;
+  transform-style: preserve-3d;
+  container-type: inline-size;
+}
+.tcg-card .foil {
+  position: absolute; inset: 0; border-radius: inherit; pointer-events: none; mix-blend-mode: color-dodge; opacity: .55;
+  background-size: 300% 300%;
+  background-position: var(--mx, 50%) var(--my, 50%);
+  transition: opacity .3s;
+}
+.foil-holo { background-image: linear-gradient(115deg, transparent 20%, rgba(255,255,255,.55) 35%, rgba(150,220,255,.35) 45%, transparent 60%); }
+.foil-rainbow { background-image: linear-gradient(120deg, #ff6fb5 0%, #ffd36f 20%, #6fffb8 40%, #6fc8ff 60%, #c36fff 80%, #ff6fb5 100%); opacity: .38 !important; }
+.foil-gold { background-image: linear-gradient(125deg, #6b4a00 0%, #ffe9a6 25%, #b58400 45%, #fff6d1 60%, #8f6400 80%); opacity: .45 !important; mix-blend-mode: overlay; }
+.foil-cosmic { background-image: radial-gradient(circle at var(--mx,50%) var(--my,50%), rgba(255,255,255,.7), transparent 30%), linear-gradient(130deg, #6f7dff, #ff6fe3, #6fffe9, #ffe56f, #6f7dff); opacity: .42 !important; }
+.tcg-card .sparkle {
+  position: absolute; inset: 0; border-radius: inherit; pointer-events: none;
+  background-image: radial-gradient(circle, rgba(255,255,255,.9) 0.6px, transparent 1.2px);
+  background-size: 9% 6.5%;
+  mix-blend-mode: overlay; opacity: .5;
+  animation: twinkle 3s ease-in-out infinite alternate;
+}
+@keyframes twinkle { from { opacity: .15; } to { opacity: .6; } }
+
+.rarity-glow-double_rare { box-shadow: 0 0 18px 2px rgba(255, 210, 120, .45); }
+.rarity-glow-illustration_rare { box-shadow: 0 0 22px 3px rgba(255, 140, 220, .5); }
+.rarity-glow-ultra_rare { box-shadow: 0 0 26px 4px rgba(150, 170, 255, .6); }
+.rarity-glow-secret_rare { box-shadow: 0 0 30px 6px rgba(255, 215, 90, .7); animation: goldpulse 2.4s ease-in-out infinite; }
+@keyframes goldpulse { 50% { box-shadow: 0 0 40px 10px rgba(255, 215, 90, .9); } }
+
+.no-scrollbar::-webkit-scrollbar { display: none; }
+.no-scrollbar { scrollbar-width: none; }
+
+/* Battle */
+.target-pulse { animation: targetpulse 1.1s ease-in-out infinite; }
+@keyframes targetpulse { 0%,100% { box-shadow: 0 0 0 3px rgba(95,227,181,.9), 0 0 18px 4px rgba(95,227,181,.5); } 50% { box-shadow: 0 0 0 5px rgba(95,227,181,.6), 0 0 28px 8px rgba(95,227,181,.3); } }
+.shake { animation: shake .4s; }
+@keyframes shake { 20% { transform: translateX(-6px) rotate(-2deg); } 40% { transform: translateX(6px) rotate(2deg); } 60% { transform: translateX(-4px); } 80% { transform: translateX(4px); } }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: .01ms !important; transition-duration: .01ms !important; }
+}

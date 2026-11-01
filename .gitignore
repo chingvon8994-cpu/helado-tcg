@@ -1,0 +1,9 @@
+node_modules
+dist
+.env
+.env.local
+.vercel
+*.log
+coverage
+# Source Fakedex (28 MB). Keep a copy locally to re-run `npm run art`; processed art is committed.
+assets-src/*.sb3

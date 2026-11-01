@@ -1,0 +1,1498 @@
+[
+ {
+  "key": "citriman",
+  "name": "Citriman",
+  "fakedexTypes": [
+   "grass"
+  ],
+  "size": [
+   640,
+   470
+  ]
+ },
+ {
+  "key": "crocshot",
+  "name": "Crocshot",
+  "fakedexTypes": [
+   "grass"
+  ],
+  "size": [
+   640,
+   378
+  ]
+ },
+ {
+  "key": "spinoscope",
+  "name": "Spinoscope",
+  "fakedexTypes": [
+   "grass",
+   "rock"
+  ],
+  "size": [
+   640,
+   430
+  ]
+ },
+ {
+  "key": "axolitl",
+  "name": "Axolitl",
+  "fakedexTypes": [
+   "fire"
+  ],
+  "size": [
+   640,
+   521
+  ]
+ },
+ {
+  "key": "axofuegl",
+  "name": "Axofuegl",
+  "fakedexTypes": [
+   "fire"
+  ],
+  "size": [
+   640,
+   451
+  ]
+ },
+ {
+  "key": "axoplazma",
+  "name": "Axoplazma",
+  "fakedexTypes": [
+   "fire",
+   "electric"
+  ],
+  "size": [
+   640,
+   544
+  ]
+ },
+ {
+  "key": "nekocean",
+  "name": "Nekocean",
+  "fakedexTypes": [
+   "water"
+  ],
+  "size": [
+   640,
+   538
+  ]
+ },
+ {
+  "key": "jetguar",
+  "name": "Jetguar",
+  "fakedexTypes": [
+   "water"
+  ],
+  "size": [
+   640,
+   588
+  ]
+ },
+ {
+  "key": "sabrine",
+  "name": "Sabrine",
+  "fakedexTypes": [
+   "water"
+  ],
+  "size": [
+   640,
+   383
+  ]
+ },
+ {
+  "key": "nibblpig",
+  "name": "Nibblpig",
+  "fakedexTypes": [
+   "normal"
+  ],
+  "size": [
+   640,
+   335
+  ]
+ },
+ {
+  "key": "chubybara",
+  "name": "Chubybara",
+  "fakedexTypes": [
+   "normal"
+  ],
+  "size": [
+   640,
+   588
+  ]
+ },
+ {
+  "key": "possteal",
+  "name": "Possteal",
+  "fakedexTypes": [
+   "dark"
+  ],
+  "size": [
+   640,
+   591
+  ]
+ },
+ {
+  "key": "klepossum",
+  "name": "Klepossum",
+  "fakedexTypes": [
+   "dark"
+  ],
+  "size": [
+   640,
+   490
+  ]
+ },
+ {
+  "key": "pastelot",
+  "name": "Pastelot",
+  "fakedexTypes": [],
+  "size": [
+   461,
+   442
+  ]
+ },
+ {
+  "key": "coxinrawr",
+  "name": "Coxinrawr",
+  "fakedexTypes": [],
+  "size": [
+   640,
+   602
+  ]
+ },
+ {
+  "key": "mollslip",
+  "name": "Mollslip",
+  "fakedexTypes": [
+   "grass",
+   "ground"
+  ],
+  "size": [
+   640,
+   530
+  ]
+ },
+ {
+  "key": "octooroot",
+  "name": "Octooroot",
+  "fakedexTypes": [
+   "grass",
+   "ground"
+  ],
+  "size": [
+   640,
+   422
+  ]
+ },
+ {
+  "key": "vampost",
+  "name": "Vampost",
+  "fakedexTypes": [
+   "ground",
+   "poison"
+  ],
+  "size": [
+   640,
+   620
+  ]
+ },
+ {
+  "key": "chuchilli",
+  "name": "Chuchilli",
+  "fakedexTypes": [],
+  "size": [
+   640,
+   507
+  ]
+ },
+ {
+  "key": "tsuraichu",
+  "name": "Tsuraichu",
+  "fakedexTypes": [
+   "electric"
+  ],
+  "size": [
+   640,
+   471
+  ]
+ },
+ {
+  "key": "rhearushie",
+  "name": "Rhearushie",
+  "fakedexTypes": [
+   "ground"
+  ],
+  "size": [
+   442,
+   520
+  ]
+ },
+ {
+  "key": "hawchop",
+  "name": "Hawchop",
+  "fakedexTypes": [
+   "ground",
+   "steel"
+  ],
+  "size": [
+   575,
+   640
+  ]
+ },
+ {
+  "key": "terraxgryff",
+  "name": "Terraxgryff",
+  "fakedexTypes": [
+   "ground",
+   "steel"
+  ],
+  "size": [
+   640,
+   449
+  ]
+ },
+ {
+  "key": "puffun",
+  "name": "Puffun",
+  "fakedexTypes": [
+   "flying"
+  ],
+  "size": [
+   614,
+   573
+  ]
+ },
+ {
+  "key": "pufflow",
+  "name": "Pufflow",
+  "fakedexTypes": [
+   "flying",
+   "water"
+  ],
+  "size": [
+   640,
+   587
+  ]
+ },
+ {
+  "key": "hummhungi",
+  "name": "Hummhungi",
+  "fakedexTypes": [
+   "flying"
+  ],
+  "size": [
+   640,
+   530
+  ]
+ },
+ {
+  "key": "snacockatoo",
+  "name": "Snacockatoo",
+  "fakedexTypes": [
+   "flying"
+  ],
+  "size": [
+   640,
+   583
+  ]
+ },
+ {
+  "key": "cramclam",
+  "name": "Cramclam",
+  "fakedexTypes": [
+   "water"
+  ],
+  "size": [
+   640,
+   491
+  ]
+ },
+ {
+  "key": "cupagato",
+  "name": "Cupagato",
+  "fakedexTypes": [
+   "grass"
+  ],
+  "size": [
+   437,
+   640
+  ]
+ },
+ {
+  "key": "esspurro",
+  "name": "Esspurro",
+  "fakedexTypes": [
+   "grass"
+  ],
+  "size": [
+   303,
+   640
+  ]
+ },
+ {
+  "key": "mochattoa",
+  "name": "Mochattoa",
+  "fakedexTypes": [
+   "grass",
+   "dark"
+  ],
+  "size": [
+   554,
+   640
+  ]
+ },
+ {
+  "key": "piggruff",
+  "name": "Piggruff",
+  "fakedexTypes": [
+   "fighting"
+  ],
+  "size": [
+   640,
+   466
+  ]
+ },
+ {
+  "key": "boarough",
+  "name": "Boarough",
+  "fakedexTypes": [
+   "fighting"
+  ],
+  "size": [
+   640,
+   311
+  ]
+ },
+ {
+  "key": "alpetal",
+  "name": "Alpetal",
+  "fakedexTypes": [],
+  "size": [
+   578,
+   640
+  ]
+ },
+ {
+  "key": "precipax",
+  "name": "Precipax",
+  "fakedexTypes": [],
+  "size": [
+   407,
+   640
+  ]
+ },
+ {
+  "key": "farrofawn",
+  "name": "Farrofawn",
+  "fakedexTypes": [
+   "fighting"
+  ],
+  "size": [
+   440,
+   640
+  ]
+ },
+ {
+  "key": "strikhnam",
+  "name": "Strikhnam",
+  "fakedexTypes": [
+   "fighting",
+   "dark"
+  ],
+  "size": [
+   640,
+   517
+  ]
+ },
+ {
+  "key": "moldiwoldi",
+  "name": "Moldiwoldi",
+  "fakedexTypes": [
+   "poison",
+   "steel"
+  ],
+  "size": [
+   640,
+   430
+  ]
+ },
+ {
+  "key": "pokeypine",
+  "name": "Pokeypine",
+  "fakedexTypes": [
+   "normal"
+  ],
+  "size": [
+   593,
+   586
+  ]
+ },
+ {
+  "key": "punkypine",
+  "name": "Punkypine",
+  "fakedexTypes": [
+   "normal"
+  ],
+  "size": [
+   616,
+   640
+  ]
+ },
+ {
+  "key": "oorcute",
+  "name": "Oorcute",
+  "fakedexTypes": [
+   "water"
+  ],
+  "size": [
+   618,
+   591
+  ]
+ },
+ {
+  "key": "oorcanium",
+  "name": "Oorcanium",
+  "fakedexTypes": [
+   "water",
+   "psychic"
+  ],
+  "size": [
+   640,
+   492
+  ]
+ },
+ {
+  "key": "mosqtee_jr",
+  "name": "Mosqtee Jr",
+  "fakedexTypes": [
+   "bug",
+   "poison"
+  ],
+  "size": [
+   640,
+   525
+  ]
+ },
+ {
+  "key": "mr_squeeto",
+  "name": "Mr Squeeto",
+  "fakedexTypes": [
+   "bug",
+   "poison"
+  ],
+  "size": [
+   640,
+   584
+  ]
+ },
+ {
+  "key": "ms_squeeta",
+  "name": "Ms Squeeta",
+  "fakedexTypes": [
+   "bug",
+   "poison"
+  ],
+  "size": [
+   640,
+   489
+  ]
+ },
+ {
+  "key": "crystug",
+  "name": "Crystug",
+  "fakedexTypes": [
+   "bug"
+  ],
+  "size": [
+   382,
+   640
+  ]
+ },
+ {
+  "key": "gemgoalie",
+  "name": "Gemgoalie",
+  "fakedexTypes": [
+   "bug",
+   "rock"
+  ],
+  "size": [
+   640,
+   594
+  ]
+ },
+ {
+  "key": "guzzlegum",
+  "name": "Guzzlegum",
+  "fakedexTypes": [],
+  "size": [
+   640,
+   600
+  ]
+ },
+ {
+  "key": "vultaunt",
+  "name": "Vultaunt",
+  "fakedexTypes": [
+   "flying",
+   "normal"
+  ],
+  "size": [
+   477,
+   640
+  ]
+ },
+ {
+  "key": "scrapcub",
+  "name": "Scrapcub",
+  "fakedexTypes": [
+   "ground"
+  ],
+  "size": [
+   640,
+   529
+  ]
+ },
+ {
+  "key": "whackwarg",
+  "name": "Whackwarg",
+  "fakedexTypes": [
+   "dark",
+   "ground"
+  ],
+  "size": [
+   640,
+   444
+  ]
+ },
+ {
+  "key": "sifonte",
+  "name": "Sifonte",
+  "fakedexTypes": [
+   "dark",
+   "poison"
+  ],
+  "size": [
+   640,
+   605
+  ]
+ },
+ {
+  "key": "sapak",
+  "name": "Sapak",
+  "fakedexTypes": [
+   "bug"
+  ],
+  "size": [
+   640,
+   477
+  ]
+ },
+ {
+  "key": "hivoon",
+  "name": "Hivoon",
+  "fakedexTypes": [
+   "bug"
+  ],
+  "size": [
+   640,
+   422
+  ]
+ },
+ {
+  "key": "slapsap",
+  "name": "Slapsap",
+  "fakedexTypes": [
+   "bug",
+   "fighting"
+  ],
+  "size": [
+   640,
+   490
+  ]
+ },
+ {
+  "key": "rammi",
+  "name": "Rammi",
+  "fakedexTypes": [
+   "bug"
+  ],
+  "size": [
+   495,
+   606
+  ]
+ },
+ {
+  "key": "bugbarian",
+  "name": "Bugbarian",
+  "fakedexTypes": [
+   "bug",
+   "fighting"
+  ],
+  "size": [
+   524,
+   640
+  ]
+ },
+ {
+  "key": "crakapace",
+  "name": "Crakapace",
+  "fakedexTypes": [
+   "ghost",
+   "rock"
+  ],
+  "size": [
+   640,
+   609
+  ]
+ },
+ {
+  "key": "krablaze",
+  "name": "Krablaze",
+  "fakedexTypes": [
+   "fire"
+  ],
+  "size": [
+   640,
+   417
+  ]
+ },
+ {
+  "key": "krablade",
+  "name": "Krablade",
+  "fakedexTypes": [],
+  "size": [
+   640,
+   406
+  ]
+ },
+ {
+  "key": "brutecetan",
+  "name": "Brutecetan",
+  "fakedexTypes": [
+   "fire"
+  ],
+  "size": [
+   640,
+   315
+  ]
+ },
+ {
+  "key": "messea",
+  "name": "Messea",
+  "fakedexTypes": [],
+  "size": [
+   620,
+   587
+  ]
+ },
+ {
+  "key": "goriara",
+  "name": "Goriara",
+  "fakedexTypes": [],
+  "size": [
+   640,
+   592
+  ]
+ },
+ {
+  "key": "spilliq",
+  "name": "Spilliq",
+  "fakedexTypes": [
+   "ground",
+   "poison"
+  ],
+  "size": [
+   326,
+   640
+  ]
+ },
+ {
+  "key": "primaltar",
+  "name": "Primaltar",
+  "fakedexTypes": [
+   "ground",
+   "poison"
+  ],
+  "size": [
+   640,
+   532
+  ]
+ },
+ {
+  "key": "rokadet",
+  "name": "Rokadet",
+  "fakedexTypes": [
+   "rock",
+   "fighting"
+  ],
+  "size": [
+   343,
+   636
+  ]
+ },
+ {
+  "key": "stactlgent",
+  "name": "Stactlgent",
+  "fakedexTypes": [
+   "rock",
+   "fighting"
+  ],
+  "size": [
+   640,
+   541
+  ]
+ },
+ {
+  "key": "colonelcorps",
+  "name": "Colonelcorps",
+  "fakedexTypes": [
+   "rock",
+   "fighting"
+  ],
+  "size": [
+   640,
+   524
+  ]
+ },
+ {
+  "key": "bataya",
+  "name": "Bataya",
+  "fakedexTypes": [
+   "grass",
+   "flying"
+  ],
+  "size": [
+   401,
+   640
+  ]
+ },
+ {
+  "key": "camapact",
+  "name": "Camapact",
+  "fakedexTypes": [
+   "grass"
+  ],
+  "size": [
+   640,
+   445
+  ]
+ },
+ {
+  "key": "invisishy",
+  "name": "Invisishy",
+  "fakedexTypes": [
+   "normal",
+   "ghost"
+  ],
+  "size": [
+   414,
+   640
+  ]
+ },
+ {
+  "key": "luchacon",
+  "name": "Luchacon",
+  "fakedexTypes": [
+   "rock"
+  ],
+  "size": [
+   640,
+   552
+  ]
+ },
+ {
+  "key": "kappish",
+  "name": "Kappish",
+  "fakedexTypes": [],
+  "size": [
+   509,
+   640
+  ]
+ },
+ {
+  "key": "kapboom",
+  "name": "Kapboom",
+  "fakedexTypes": [
+   "fire"
+  ],
+  "size": [
+   640,
+   397
+  ]
+ },
+ {
+  "key": "flappilil",
+  "name": "Flappilil",
+  "fakedexTypes": [
+   "flying"
+  ],
+  "size": [
+   409,
+   640
+  ]
+ },
+ {
+  "key": "flappigant",
+  "name": "Flappigant",
+  "fakedexTypes": [
+   "flying",
+   "fighting"
+  ],
+  "size": [
+   537,
+   640
+  ]
+ },
+ {
+  "key": "catoddle",
+  "name": "Catoddle",
+  "fakedexTypes": [
+   "dragon",
+   "grass"
+  ],
+  "size": [
+   640,
+   481
+  ]
+ },
+ {
+  "key": "catitan",
+  "name": "Catitan",
+  "fakedexTypes": [
+   "dragon",
+   "grass"
+  ],
+  "size": [
+   640,
+   363
+  ]
+ },
+ {
+  "key": "icefect",
+  "name": "Icefect",
+  "fakedexTypes": [
+   "poison"
+  ],
+  "size": [
+   607,
+   640
+  ]
+ },
+ {
+  "key": "chillphage",
+  "name": "Chillphage",
+  "fakedexTypes": [
+   "poison"
+  ],
+  "size": [
+   516,
+   640
+  ]
+ },
+ {
+  "key": "cryoati",
+  "name": "Cryoati",
+  "fakedexTypes": [
+   "psychic"
+  ],
+  "size": [
+   640,
+   604
+  ]
+ },
+ {
+  "key": "coatichill",
+  "name": "Coatichill",
+  "fakedexTypes": [
+   "psychic"
+  ],
+  "size": [
+   640,
+   493
+  ]
+ },
+ {
+  "key": "predtempest",
+  "name": "Predtempest",
+  "fakedexTypes": [
+   "psychic"
+  ],
+  "size": [
+   640,
+   585
+  ]
+ },
+ {
+  "key": "coatiboa",
+  "name": "Coatiboa",
+  "fakedexTypes": [
+   "fire"
+  ],
+  "size": [
+   640,
+   613
+  ]
+ },
+ {
+  "key": "stitich",
+  "name": "Stitich",
+  "fakedexTypes": [
+   "ghost"
+  ],
+  "size": [
+   640,
+   607
+  ]
+ },
+ {
+  "key": "substitch",
+  "name": "Substitch",
+  "fakedexTypes": [
+   "ghost"
+  ],
+  "size": [
+   640,
+   500
+  ]
+ },
+ {
+  "key": "macarabric",
+  "name": "Macarabric",
+  "fakedexTypes": [
+   "ghost"
+  ],
+  "size": [
+   640,
+   576
+  ]
+ },
+ {
+  "key": "shrimple",
+  "name": "Shrimple",
+  "fakedexTypes": [
+   "water"
+  ],
+  "size": [
+   640,
+   470
+  ]
+ },
+ {
+  "key": "lobstrvern",
+  "name": "Lobstrvern",
+  "fakedexTypes": [
+   "water",
+   "dragon"
+  ],
+  "size": [
+   640,
+   379
+  ]
+ },
+ {
+  "key": "mangcalf",
+  "name": "Mangcalf",
+  "fakedexTypes": [
+   "grass",
+   "water"
+  ],
+  "size": [
+   640,
+   378
+  ]
+ },
+ {
+  "key": "mangrow",
+  "name": "Mangrow",
+  "fakedexTypes": [
+   "grass",
+   "water"
+  ],
+  "size": [
+   640,
+   490
+  ]
+ },
+ {
+  "key": "antorch",
+  "name": "Antorch",
+  "fakedexTypes": [
+   "bug",
+   "fire"
+  ],
+  "size": [
+   546,
+   640
+  ]
+ },
+ {
+  "key": "antonarch",
+  "name": "Antonarch",
+  "fakedexTypes": [
+   "bug",
+   "fire"
+  ],
+  "size": [
+   517,
+   640
+  ]
+ },
+ {
+  "key": "relitech",
+  "name": "Relitech",
+  "fakedexTypes": [
+   "steel",
+   "electric"
+  ],
+  "size": [
+   640,
+   490
+  ]
+ },
+ {
+  "key": "arcitechii",
+  "name": "Arcitechii",
+  "fakedexTypes": [
+   "steel",
+   "electric"
+  ],
+  "size": [
+   640,
+   446
+  ]
+ },
+ {
+  "key": "dreamsnatchr",
+  "name": "Dreamsnatchr",
+  "fakedexTypes": [
+   "psychic",
+   "dark"
+  ],
+  "size": [
+   640,
+   459
+  ]
+ },
+ {
+  "key": "pinego",
+  "name": "Pinego",
+  "fakedexTypes": [
+   "electric"
+  ],
+  "size": [
+   399,
+   598
+  ]
+ },
+ {
+  "key": "tropogon",
+  "name": "Tropogon",
+  "fakedexTypes": [
+   "electric",
+   "dragon"
+  ],
+  "size": [
+   640,
+   639
+  ]
+ },
+ {
+  "key": "teslarin",
+  "name": "Teslarin",
+  "fakedexTypes": [
+   "electric"
+  ],
+  "size": [
+   545,
+   640
+  ]
+ },
+ {
+  "key": "zangdrill",
+  "name": "Zangdrill",
+  "fakedexTypes": [
+   "electric"
+  ],
+  "size": [
+   640,
+   614
+  ]
+ },
+ {
+  "key": "treflex",
+  "name": "Treflex",
+  "fakedexTypes": [
+   "fighting"
+  ],
+  "size": [
+   331,
+   531
+  ]
+ },
+ {
+  "key": "xelercroak",
+  "name": "Xelercroak",
+  "fakedexTypes": [
+   "fighting"
+  ],
+  "size": [
+   640,
+   326
+  ]
+ },
+ {
+  "key": "luchaphib",
+  "name": "Luchaphib",
+  "fakedexTypes": [
+   "fighting",
+   "poison"
+  ],
+  "size": [
+   640,
+   363
+  ]
+ },
+ {
+  "key": "dragobone",
+  "name": "Dragobone",
+  "fakedexTypes": [
+   "dragon",
+   "ghost"
+  ],
+  "size": [
+   563,
+   640
+  ]
+ },
+ {
+  "key": "drakavera",
+  "name": "Drakavera",
+  "fakedexTypes": [
+   "ghost"
+  ],
+  "size": [
+   640,
+   494
+  ]
+ },
+ {
+  "key": "swashchattr",
+  "name": "Swashchattr",
+  "fakedexTypes": [
+   "dark",
+   "flying"
+  ],
+  "size": [
+   640,
+   429
+  ]
+ },
+ {
+  "key": "amurandes",
+  "name": "Amurandes",
+  "fakedexTypes": [
+   "rock",
+   "ground"
+  ],
+  "size": [
+   640,
+   428
+  ]
+ },
+ {
+  "key": "losbihyena",
+  "name": "Losbihyena",
+  "fakedexTypes": [
+   "dark",
+   "fighting"
+  ],
+  "size": [
+   640,
+   486
+  ]
+ },
+ {
+  "key": "jalamagma",
+  "name": "Jalamagma",
+  "fakedexTypes": [
+   "grass",
+   "fire"
+  ],
+  "size": [
+   640,
+   611
+  ]
+ },
+ {
+  "key": "foodfetchd",
+  "name": "Foodfetchd",
+  "fakedexTypes": [
+   "fire"
+  ],
+  "size": [
+   640,
+   391
+  ]
+ },
+ {
+  "key": "velcatty",
+  "name": "Velcatty",
+  "fakedexTypes": [
+   "electric"
+  ],
+  "size": [
+   640,
+   539
+  ]
+ },
+ {
+  "key": "lurkzel",
+  "name": "Lurkzel",
+  "fakedexTypes": [
+   "water"
+  ],
+  "size": [
+   640,
+   448
+  ]
+ },
+ {
+  "key": "magmercury",
+  "name": "Magmercury",
+  "fakedexTypes": [
+   "steel",
+   "poison"
+  ],
+  "size": [
+   640,
+   562
+  ]
+ },
+ {
+  "key": "cypearls",
+  "name": "Cypearls",
+  "fakedexTypes": [],
+  "size": [
+   493,
+   640
+  ]
+ },
+ {
+  "key": "mafiape",
+  "name": "Mafiape",
+  "fakedexTypes": [
+   "normal",
+   "dark"
+  ],
+  "size": [
+   640,
+   626
+  ]
+ },
+ {
+  "key": "malevor",
+  "name": "Malevor",
+  "fakedexTypes": [
+   "psychic"
+  ],
+  "size": [
+   640,
+   623
+  ]
+ },
+ {
+  "key": "gravilith",
+  "name": "Gravilith",
+  "fakedexTypes": [],
+  "size": [
+   564,
+   640
+  ]
+ },
+ {
+  "key": "tangrey",
+  "name": "Tangrey",
+  "fakedexTypes": [],
+  "size": [
+   640,
+   337
+  ]
+ },
+ {
+  "key": "nukoloco",
+  "name": "Nukoloco",
+  "fakedexTypes": [
+   "poison",
+   "electric"
+  ],
+  "size": [
+   640,
+   602
+  ]
+ },
+ {
+  "key": "pantheory",
+  "name": "Pantheory",
+  "fakedexTypes": [
+   "ghost",
+   "dark"
+  ],
+  "size": [
+   640,
+   535
+  ]
+ },
+ {
+  "key": "sunnymind",
+  "name": "Sunnymind",
+  "fakedexTypes": [
+   "psychic"
+  ],
+  "size": [
+   640,
+   478
+  ]
+ },
+ {
+  "key": "slothu",
+  "name": "Slothu",
+  "fakedexTypes": [
+   "psychic"
+  ],
+  "size": [
+   629,
+   640
+  ]
+ },
+ {
+  "key": "bakothai",
+  "name": "Bakothai",
+  "fakedexTypes": [
+   "psychic"
+  ],
+  "size": [
+   576,
+   640
+  ]
+ },
+ {
+  "key": "guaripsychi",
+  "name": "Guaripsychi",
+  "fakedexTypes": [
+   "psychic"
+  ],
+  "size": [
+   640,
+   498
+  ]
+ },
+ {
+  "key": "squill",
+  "name": "Squill",
+  "fakedexTypes": [
+   "water",
+   "dragon"
+  ],
+  "size": [
+   556,
+   502
+  ]
+ },
+ {
+  "key": "quillash",
+  "name": "Quillash",
+  "fakedexTypes": [
+   "water",
+   "dragon"
+  ],
+  "size": [
+   614,
+   640
+  ]
+ },
+ {
+  "key": "luscarmar",
+  "name": "Luscarmar",
+  "fakedexTypes": [
+   "water",
+   "dragon"
+  ],
+  "size": [
+   640,
+   416
+  ]
+ },
+ {
+  "key": "gloomorgue",
+  "name": "Gloomorgue",
+  "fakedexTypes": [
+   "water",
+   "ghost"
+  ],
+  "size": [
+   640,
+   543
+  ]
+ },
+ {
+  "key": "mazocotal",
+  "name": "Mazocotal",
+  "fakedexTypes": [
+   "dragon",
+   "grass"
+  ],
+  "size": [
+   640,
+   474
+  ]
+ },
+ {
+  "key": "mazopokat",
+  "name": "Mazopokat",
+  "fakedexTypes": [
+   "dark",
+   "rock"
+  ],
+  "size": [
+   640,
+   531
+  ]
+ },
+ {
+  "key": "cipaclysm",
+  "name": "Cipaclysm",
+  "fakedexTypes": [
+   "fire",
+   "dragon"
+  ],
+  "size": [
+   640,
+   420
+  ]
+ },
+ {
+  "key": "wispiwind",
+  "name": "Wispiwind",
+  "fakedexTypes": [
+   "flying",
+   "dark"
+  ],
+  "size": [
+   451,
+   640
+  ]
+ },
+ {
+  "key": "wispiwick",
+  "name": "Wispiwick",
+  "fakedexTypes": [
+   "fire"
+  ],
+  "size": [
+   622,
+   640
+  ]
+ }
+]
